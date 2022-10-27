@@ -1,6 +1,6 @@
 # 이력서
 
-<사진>
+![프로필사진](https://github.com/yujin5/2022oss/blob/main/me.jpg)
 
 <br/>
 
