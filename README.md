@@ -1,6 +1,6 @@
 # 이력서
 
-<img src="me.jpg" width="150" />
+<img src="me.jpg" width="400" />
 
 <br/>
 
