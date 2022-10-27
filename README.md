@@ -8,17 +8,23 @@
 - 이름 : 김유진
 - 취미 : 독서, 영화 보기, 여행
 - Email : black6973@naver.com
-- Github : github.com/yujin5 <br/>
+- Github : github.com/yujin5 
+
+<br/>
 
 ## 학력
-한림대학교 콘텐츠IT 4학년 재학중 (2019년 입학) <br/>
+한림대학교 콘텐츠IT 4학년 재학중 (2019년 입학)
+
+<br/>
 
 ## 학습 언어
 
 - Java
 - C 
 - HTML / CSS / Java Script
-- Kotlin <br/>
+- Kotlin 
+ 
+<br/>
   
 ## 프로젝트 이력
   
