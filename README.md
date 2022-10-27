@@ -13,10 +13,10 @@
 
 ## 학습 언어
 
-** - Java **
-** - C **
-**- HTML / CSS / Java Script**
-**- Kotlin**
+- Java
+- C 
+- HTML / CSS / Java Script
+- Kotlin
   
 ## 프로젝트 이력
   
